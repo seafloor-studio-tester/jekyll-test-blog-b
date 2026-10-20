@@ -1,7 +1,7 @@
 title: A Sample Notebook
 description: Notes from a made-up writer, for testing Jekyll Poster.
-baseurl: "/sample-blog"
-url: "https://madcode.github.io"
+baseurl: "/jekyll-test-blog-b"
+url: "https://seafloor-studio-tester.github.io"
 timezone: America/Los_Angeles
 theme: minima
 permalink: /:categories/:year/:month/:day/:title/
